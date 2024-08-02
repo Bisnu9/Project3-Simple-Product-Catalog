@@ -1,1 +1,1 @@
-This file contains basic product catalog
+# This file contains basic product catalog.
